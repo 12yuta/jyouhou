@@ -6,7 +6,7 @@ const url = [
         "https://images.beinsports.com/VicveZeoG-dXOyww1dSMR05zbDo=/full-fit-in/1000x0/unaisimon-cropped_wtaiiv29slb2195zl445lpasg.jpg",
         "https://www.realmadrid.com/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1203415743550&ssbinary=true",
         "https://www.football-zone.net/wp-content/uploads/2020/08/20200829_Leonardo-Bonucci_ap.jpg",
-        "https://i0.wp.com/www.birdiefootball.com/wp-content/uploads/2021/06/methode-times-prod-web-bin-e2a4d6fe-ef5f-11e8-bea1-693d823de728-scaled.jpg",
+        "https://i0.wp.com/www.birdiefootball.com/wp-content/uploads/2021/06/methode-times-prod-web-bin-e2a4d6fe-ef5f-11e8-bea1-693d823de728-scaled.jpg?w=1280&ssl=1",
         "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210708-00010021-footballc-000-1-view.jpg",
         "https://www.soccer-king.jp/wp-content/uploads/2019/02/GettyImages-1126495583.jpg",
         "https://pbs.twimg.com/media/D86VipfUwAIbefK.jpg",
